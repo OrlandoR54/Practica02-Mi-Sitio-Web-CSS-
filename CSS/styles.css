@@ -6,3 +6,42 @@ body{
     background: #30323d;
     list-style: none;
 }
+
+.logo{
+    position: relative;
+}
+
+h1{
+    font-size: 50px;
+    font-family: 'Franklin Gothic Heavy', sans-serif;
+    color: #e8c547;
+}
+
+.menu{
+    background: #092327;
+    border-radius: 3px;
+}
+
+.menu li {
+	display: grid;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 5px;
+}
+
+.menu li a {
+	color: #fff;
+	text-decoration: none;
+	display: block;
+    padding: 20px;
+    border-radius: 6px;
+}
+
+.menu a.active{
+    background-color: #313A75;
+}
+
+.menu a:hover:not(.active){
+    background-color: #30323d;
+    color: whitesmoke;
+}
