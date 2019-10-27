@@ -40,6 +40,11 @@
     margin-left: 250px;
 }
 
+#pray {
+    margin-left: 250px;
+    float: left;
+}
+
 .pie{
     height: 100px;
     clear: both;
