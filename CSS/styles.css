@@ -178,7 +178,7 @@ div footer{
     background:#000500;
 }
 
-.media iframe {
+#media iframe {
 	vertical-align: top;
 	width: 350px;
 	margin: 10px;
@@ -187,7 +187,7 @@ div footer{
 	border:1px solid #484848;
 }
 
-.media iframe:hover{
+#media iframe:hover{
 	border: 2px solid #fff;
     opacity: 1;
 }
