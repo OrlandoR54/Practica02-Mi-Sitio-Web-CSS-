@@ -35,3 +35,16 @@
     overflow: auto;
     float: left;
 }
+
+.main{
+    margin-left: 250px;
+}
+
+.pie{
+    height: 100px;
+    clear: both;
+    width: 100%;
+    position: relative;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
