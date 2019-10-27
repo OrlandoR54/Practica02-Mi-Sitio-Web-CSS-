@@ -151,3 +151,18 @@ div footer{
 	border: 2px solid #fff;
 	opacity: 1;
 }
+
+/*Media*/
+
+#media{
+    background:#000500;
+}
+
+.media iframe {
+	vertical-align: top;
+	width: 350px;
+	margin: 10px;
+	padding: 5px;
+	opacity:0.5;
+	border:1px solid #484848;
+}
