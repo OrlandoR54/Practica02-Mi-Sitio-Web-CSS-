@@ -26,6 +26,16 @@
     float: left;
 }
 
+.menu {
+	list-style: none;
+	padding: 0px;
+    width: 230px;
+    height: 100%;
+    position: fixed;
+    overflow: auto;
+    float: left;
+}
+
 .main {
     margin-left: 230px;
     height: 1110px;
