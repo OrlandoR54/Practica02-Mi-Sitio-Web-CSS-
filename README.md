@@ -69,7 +69,7 @@ En la Figura 6 se puede apreciar el menú de navegación con los bordes redondea
 Finalmente se pide que se cree un formulario en una de las páginas HTML en donde se muestren los campos nombre, correo electrónico, mensaje y botón para enviar. 
 Como se muestra en la Figura 7, los campos son implementados y se los puede apreciar en la página Contacto.html
 
-![](README/8.png)
+![](README/8.PNG)
 ##### Figure 7 Formulario
 
 
