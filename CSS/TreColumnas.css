@@ -5,3 +5,23 @@
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 }
+
+.encabezado {
+	padding: 10px;
+    width: 100%;
+    height: 130px;
+    float: inline-start;
+}
+
+.titulo{
+    width: 1090px;
+    height: 70px;
+    padding: 15px;
+    float: right;
+}
+
+.logo{
+    width: 100px;
+    padding: 10px;
+    float: left;
+}
