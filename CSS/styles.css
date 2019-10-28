@@ -70,7 +70,7 @@ h1{
 }
 
 .galeria img:hover {
-	border: 2px solid #fff;
+	border: 2px solid rgb(131, 131, 131);
 	opacity: 1;
 }
 
@@ -93,7 +93,7 @@ div footer{
 
 /*CONTACTOS*/
 .formulario {
-	background: #fff;
+	background: whitesmoke;
 	width: 500px;
 	margin: 20px auto;
 	padding: 20px;
@@ -111,7 +111,7 @@ div footer{
 	padding: 20px;
 	margin-bottom: 20px;
 	border-radius: 3px;
-	border:1px solid #226fc1;
+	border:1px solid #e8c547;
 	font-family: Arial;
 	font-size: 16px;
 }
@@ -126,15 +126,15 @@ div footer{
 .formulario input[type="text"]:focus,
 .formulario input[type="email"]:focus,
 .formulario textarea:focus {
-	border: 2px solid #4fb560;
+	border: 2px solid #e8c547;
 }
 
 .formulario input[type="submit"] {
 	width: 200px;
 	margin:0 auto;
 	background: none;
-	border: 1px solid #4fb560;
-	color:#4fb560;
+	border: 1px solid #e8c547;
+	color:#e8c547;
 	padding: 10px;
 	cursor: pointer;
 	font-size: 16px;
@@ -142,13 +142,13 @@ div footer{
 }
 
 .formulario input[type="submit"]:hover {
-	background: #4fb560;
-	color: #fff;
+	background: #e8c547;
+	color: whitesmoke;
 } 
 
 /*Imagenes*/
 #pray img:hover {
-	border: 2px solid #fff;
+	border: 2px solid whitesmoke;
 	opacity: 1;
 }
 
@@ -162,7 +162,7 @@ div footer{
 }
 
 #prof img:hover {
-    border: 2px solid #fff;
+    border: 2px solid whitesmoke;
     opacity: 1;
 }
 
@@ -188,6 +188,6 @@ div footer{
 }
 
 #media iframe:hover{
-	border: 2px solid #fff;
+	border: 2px solid whitesmoke;
     opacity: 1;
 }
