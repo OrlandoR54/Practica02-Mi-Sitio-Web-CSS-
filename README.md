@@ -26,11 +26,11 @@ Los siguientes archivos mantienen este formato:
 
 Todos los archivos .css se encuentran en la carpeta css. Existen tres archivos; dos para los formatos a doble y triple columna y uno para dar estilo de color, tamaño, etc. 
 
-![](README/3.png)
+![](README/3.PNG)
 
 ## 3.	Selectores
 
-![](README/4.png)
+![](README/4.PNG)
 ##### Figure 3 Ejemplos de selectores
 
 
@@ -39,7 +39,7 @@ En la Figura 3 se pueden apreciar algunos selectores usados en el proyecto.
 
 ## 4.	Títulos h1 – h6
 
-![](README/5.png)
+![](README/5.PNG)
 ##### Figure 4 Ejemplos de personalización de etiquetas h1 - h6
 
 
@@ -49,7 +49,7 @@ En la Figura 4 se puede ver algunos ejemplos.
 
 ## 5.	Pseudo – clases
 
-![](README/6.png)
+![](README/6.PNG)
 
 Se requiere también hacer uso de pseudo – clases. Para esto se creó un estilo para el navegador. En cuanto este es señalado o se da click en alguna opción, su color de fondo cambia.
 Esto también se puede apreciar en las imagenes y videos que se encuentran en la página Video.html, index.html, etc.
@@ -57,7 +57,7 @@ En la Figura 5 se puede apreciar como una de las opciones cambia su estilo cuand
  
 ## 6.	Bordes
 
-![](README/7.png)
+![](README/7.PNG)
 ##### Figure 6  Menú de navegación
 
 
@@ -69,7 +69,7 @@ En la Figura 6 se puede apreciar el menú de navegación con los bordes redondea
 Finalmente se pide que se cree un formulario en una de las páginas HTML en donde se muestren los campos nombre, correo electrónico, mensaje y botón para enviar. 
 Como se muestra en la Figura 7, los campos son implementados y se los puede apreciar en la página Contacto.html
 
-![](README/8.png)
+![](README/8.PNG)
 ##### Figure 7 Formulario
 
 
@@ -77,11 +77,11 @@ Como se muestra en la Figura 7, los campos son implementados y se los puede apre
 
 Todos los archivos CSS fueron validados sin ningún error.
 
-![](README/9.png)
+![](README/9.PNG)
 
 ## 9.	CONCLUSIONES
 
 A todas las páginas HTML se les agregó un formato de dos o tres columnas mediante un archivo css. Sin esto su estructura no puede ser apreciada por lo que es indispensable tener uno o más archivos de estilo que permita modificar la apariencia de la página HTML. La navegación, además, se vuelve más sencilla e intuitiva, lo que mejora notablemente la experiencia de usuario. 
 Tener orden al momento de crear los archivos css para una utilidad específica, es decir un archivo para columnas(estructura) y otro solo para estilos. 
 
-![](README/10.png)
+![](README/10.PNG)
