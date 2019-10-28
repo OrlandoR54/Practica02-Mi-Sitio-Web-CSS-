@@ -38,7 +38,7 @@ h1{
 }
 
 .menu a.active{
-    background-color: #313A75;
+    background-color: #e8c547;
 }
 
 .menu a:hover:not(.active){
@@ -58,7 +58,7 @@ h1{
 
 /*Tamannio de imagenes dentro de class: galeria*/
 .galeria{
-    background:#000500;
+    background:#092327;
 }
 .galeria img {
 	vertical-align: top;
@@ -70,7 +70,7 @@ h1{
 }
 
 .galeria img:hover {
-	border: 2px solid rgb(131, 131, 131);
+	border: 2px solid #484848;
 	opacity: 1;
 }
 
@@ -78,7 +78,7 @@ h1{
 div footer{
     text-align: center;
     font-style: italic;
-    color: blanchedalmond;
+    color: whitesmoke;
 }
 
 #email, #telf{
@@ -167,7 +167,7 @@ div footer{
 }
 
 #prof{
-    background:#000500;
+    background:#092327;
     margin-left: 470px;
     margin-right: 499px;
 }
@@ -175,7 +175,7 @@ div footer{
 /*Media*/
 
 #media{
-    background:#000500;
+    background:#092327;
 }
 
 #media iframe {
